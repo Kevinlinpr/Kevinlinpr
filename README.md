@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+co-founder of the Lemur Browser.
 
+[🌈 Lemur Browser（狐猴浏览器）官方网站](https://www.lemurbrowser.com)
 
-🌈 Leader of the [Lemur Browser](https://www.lemurbrowser.com) project.
+[👉 BrowserMDA（浏览器互助发展联盟）官方网站](https://www.browsermda.org/)
 
 🧐 C++ software engineer
 
